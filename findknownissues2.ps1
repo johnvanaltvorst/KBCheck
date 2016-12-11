@@ -35,5 +35,3 @@ $kbList | ForEach {
 }
 # Dump the saved results
 $results
-#test
-#more testing
